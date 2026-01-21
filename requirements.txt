@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+yt-dlp==2024.4.9
+aiohttp==3.9.3
+cachetools==5.3.3
+psutil==5.9.8
